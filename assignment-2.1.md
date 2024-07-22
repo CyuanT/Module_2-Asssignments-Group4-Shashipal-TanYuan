@@ -33,6 +33,21 @@ Note:
 Be sure to consider the most recent advancements in each model.
 
 ### Submission 
+======== Start =========
+Use case: Newly launched eCommerce
+
+Feature | On-prem Computing | Cloud Computing | Hybrid Cloud Computing
+--- | ---| --- | ---
+Ownership | Self | Public | Self & Public
+Accessibilty | Solely Owned Resource | Shared Resource | Combination depends on design
+Cost | High | Pay-as-you-go | Cost-optimization
+Scalibility | Limited to infrastructure | Highly scalable | Dependent on design
+Maintenance | Require fully trained IT personnel | Service provider reponsibility | Dependent on design
+Footprint | High Footprint | No footprint | Dependent on design
+
+
+======== End =========
+
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
