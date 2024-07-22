@@ -34,8 +34,19 @@ Be sure to consider the most recent advancements in each model.
 
 ### Submission 
 ======== Start =========
+
 Use case: Newly launched eCommerce
 
+#### Point 2
+The following point justifications to using cloud computing:
+- As a startup, the business might flop, any investment into IT infrastructure at this stage would be a risk.
+- Footprint: Setting up an IT infratructure will take up a large footprint/Space which can be limited for a startup.
+- Scalability: Assuming that the business have a sudden influx of traffic into our hosted site, having deploying our system in cloud will allow us to scale according to demand. Deploying an Op-prem system will limited our processing capabilities 
+- Maintenance: On-prem system will require a higher degress of maintenance as compared to cloud systems. Different component on-prem can be replaced by cloud service that are maintained by the service providers.
+- Cost: With higher maintenance requirement, on-prem system will also more skilled IT personnel to manage. 
+
+
+#### Point 3
 Feature | On-prem Computing | Cloud Computing | Hybrid Cloud Computing
 --- | ---| --- | ---
 Ownership | Self | Public | Self & Public
