@@ -45,7 +45,10 @@ Scalability |	Limited to physical hardware, slow and costly to scale | Highly sc
 Maintenance	| Requires in-house IT team for maintenance and upgrades | Maintenance handled by cloud provider | Requires maintenance for on-premises components, cloud components maintained by provider
 Disaster Recovery	| Requires significant investment in backup infrastructure | Built-in disaster recovery solutions. geo-redundancy | Combines on-premises backups with cloud-based disaster recovery solutions
 Footprint | High Footprint | No footprint | Dependent on design
-
+Innovation | Slower adoption of new technologies due to hardware constraints	| Access to the latest technologies and services | Can innovate using cloud services while maintaining critical on-premises systems
+Latency	| Low latency |	May experience higher latency due to network distance |	Can optimize latency by using local resources for critical tasks and cloud for others
+Deployment Speed | Slow, due to procurement and setup time | Fast, quick provisioning of resources | New deployments can be fast in the cloud, but on-premises setups remain slower
+Vendor Lock-in | Systems are in-house, but dependent on specific hardware/software vendors | Potential for lock-in with cloud providers, can be mitigated by multi-cloud strategies |	Possible risk of lock-in, but can be minimized by using standardised interfaces and multi-cloud
 
 ======== End =========
 
