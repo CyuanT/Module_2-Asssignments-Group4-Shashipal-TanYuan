@@ -41,8 +41,9 @@ Feature | On-prem Computing | Cloud Computing | Hybrid Cloud Computing
 Ownership | Self | Public | Self & Public
 Accessibilty | Solely Owned Resource | Shared Resource | Combination depends on design
 Cost | High | Pay-as-you-go | Cost-optimization
-Scalibility | Limited to infrastructure | Highly scalable | Dependent on design
-Maintenance | Require fully trained IT personnel | Service provider reponsibility | Dependent on design
+Scalability |	Limited to physical hardware, slow and costly to scale | Highly scalable, can scale up or down quickly based on demand | Flexible, can scale in the cloud while maintaining critical systems on-premises
+Maintenance	| Requires in-house IT team for maintenance and upgrades | Maintenance handled by cloud provider | Requires maintenance for on-premises components, cloud components maintained by provider
+Disaster Recovery	| Requires significant investment in backup infrastructure | Built-in disaster recovery solutions. geo-redundancy | Combines on-premises backups with cloud-based disaster recovery solutions
 Footprint | High Footprint | No footprint | Dependent on design
 
 
