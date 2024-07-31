@@ -44,13 +44,13 @@ Work with your group to define your own business and your own IaaS / PaaS or Saa
 |9|Email| EC2 | N.A. | Google Workspace |
 
 Justification
-| S/N | Components | Pros | Cons |
-|-----|------------|------|------|
+| S/N | Components | Selection | Pros | Cons |
+|-----|------------|-----------|------|------|
 |1|Computing| EC2 | EC2 easier for initial development. Flexibility. More customizable| Requires additional Management.  |
-|2|Storage| AWS S3 |  |
-|3|Load Balancer |AWS Load Balancer 
-|4|Database | AWS RDS 
-|5|DNS |Route 53 | N.A. |
+|2|Storage| AWS S3 | Cheaper than deploying a storage service from EC2. Less management required | Less Flexibility/Customization|
+|3|Load Balancer |AWS Load Balancer| Cheaper than F5 Load Balancer. |  F5 offers better traffic optimization|
+|4|Database | AWS RDS | Cheaper than deploying a storage service from EC2. Less management required | |
+|5|DNS |Route 53 |  |
 |6| WAF | AWS WAF 
 |7|AD | AWS Cognito|
 |8|Chatbot|  AWS Chatbot |
