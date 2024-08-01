@@ -33,22 +33,38 @@ Note:
 Be sure to consider the most recent advancements in each model.
 
 ### Submission 
+======== Start =========
+
+Use case: Newly launched eCommerce
+
+#### Point 2
+The following point justifications to using cloud computing:
+- As a startup, the business might flop, any investment into IT infrastructure at this stage would be a risk.
+- Footprint: Setting up an IT infratructure will take up a large footprint/Space which can be limited for a startup.
+- Scalability: Assuming that the business have a sudden influx of traffic into our hosted site, having deploying our system in cloud will allow us to scale according to demand. Deploying an Op-prem system will limited our processing capabilities 
+- Maintenance: On-prem system will require a higher degress of maintenance as compared to cloud systems. Different component on-prem can be replaced by cloud service that are maintained by the service providers.
+- Cost: With higher maintenance requirement, on-prem system will also more skilled IT personnel to manage. 
+
+
+#### Point 3
+Feature | On-prem Computing | Cloud Computing | Hybrid Cloud Computing
+--- | ---| --- | ---
+Ownership | Self | Public | Self & Public
+Accessibilty | Solely Owned Resource | Shared Resource | Combination depends on design
+Cost | High | Pay-as-you-go | Cost-optimization
+Scalability |	Limited to physical hardware, slow and costly to scale | Highly scalable, can scale up or down quickly based on demand | Flexible, can scale in the cloud while maintaining critical systems on-premises
+Maintenance	| Requires in-house IT team for maintenance and upgrades | Maintenance handled by cloud provider | Requires maintenance for on-premises components, cloud components maintained by provider
+Disaster Recovery	| Requires significant investment in backup infrastructure | Built-in disaster recovery solutions. geo-redundancy | Combines on-premises backups with cloud-based disaster recovery solutions
+Footprint | High Footprint | No footprint | Dependent on design
+Innovation | Slower adoption of new technologies due to hardware constraints	| Access to the latest technologies and services | Can innovate using cloud services while maintaining critical on-premises systems
+Latency	| Low latency |	May experience higher latency due to network distance |	Can optimize latency by using local resources for critical tasks and cloud for others
+Deployment Speed | Slow, due to procurement and setup time | Fast, quick provisioning of resources | New deployments can be fast in the cloud, but on-premises setups remain slower
+Vendor Lock-in | Systems are in-house, but dependent on specific hardware/software vendors | Potential for lock-in with cloud providers, can be mitigated by multi-cloud strategies |	Possible risk of lock-in, but can be minimized by using standardised interfaces and multi-cloud
+
+======== End =========
+
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
 
 ### References
-
-
-Recommendation for Startups: Cloud Computing
-
-Reasoning:
-Cost Efficiency: Startups usually have limited budgets. Cloud computing offers a pay-as-you-go model, eliminating the need for significant upfront capital investment.
-
-Scalability: Startups often experience rapid growth. Cloud computing allows for easy scaling of resources without the need for additional hardware purchases.
-
-Flexibility: Access to a wide range of services and tools enables startups to innovate and iterate quickly.
-
-Maintenance: Reduced need for in-house IT maintenance allows startups to focus on core business activities.
-
-Advanced Services: Availability of advanced AI, ML, and data analytics services that can accelerate product development and innovation.
