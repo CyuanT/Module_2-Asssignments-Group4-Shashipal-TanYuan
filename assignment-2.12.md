@@ -5,9 +5,14 @@
 - Succinctly explain `what is Cloud Architecture Design - Reliability?` between 100 to 200 words.
 - Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Reliability on your system.
 
-**Consolidated answers**: [here](https://docs.google.com/presentation/d/1Z6Ie3QNc_j1b7PwdMvLWQtK9oGHkpKHx/edit#slide=id.g28522d2f548_0_6)
 
 ### Submission 
+
+=================== START ==================
+
+**Consolidated answers:** [**HERE**](https://docs.google.com/presentation/d/1Z6Ie3QNc_j1b7PwdMvLWQtK9oGHkpKHx/edit#slide=id.g28522d2f548_0_6)
+
+=================== END ==================
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
