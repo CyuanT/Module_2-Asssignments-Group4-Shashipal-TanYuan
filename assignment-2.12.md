@@ -2,18 +2,9 @@
 
 ### Brief
 
-Succinctly explain `what is Cloud Architecture Design - Reliability?` between 100 to 200 words.
-
-```
-Your answer here
-```
-
-
-Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Reliability on your system.
-
-```
-Your answer here
-```
+- Succinctly explain `what is Cloud Architecture Design - Reliability?` between 100 to 200 words.
+- Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Reliability on your system.
+**Consolidated answers**: [here](https://docs.google.com/presentation/d/1Z6Ie3QNc_j1b7PwdMvLWQtK9oGHkpKHx/edit#slide=id.g28522d2f548_0_6)
 
 ### Submission 
 
