@@ -41,6 +41,10 @@ Instructions:
     15. You should be able to access your created EC2 instance! Feel free to run any actions e.g. curl, netstat, install other packages etc.
    
 ### Submission 
+=================== START ======================
+![image](https://github.com/user-attachments/assets/54d7063b-97ec-4094-97f3-1bb78d19b2b7)
+
+=================== END ======================
 
 - Submit the URL of the GitHub Repository that contains your screenshots of the created EC2 instances from AWS console and Terminal/ Powershell to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
