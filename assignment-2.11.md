@@ -2,9 +2,9 @@
 
 ### Brief
 
-Succinctly explain `what is Cloud Architecture Design - Security?` between 100 to 200 words.
+- Succinctly explain `what is Cloud Architecture Design - Security?` between 100 to 200 words.
 
-Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Security on your system.
+- Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Security on your system.
 
 **Consolidated answers:** [here](https://docs.google.com/presentation/d/1UjM0qvfVSvqN-jfJlwXg37TxlW3JKgYa/edit#slide=id.g28523cd4e98_0_0)
 
