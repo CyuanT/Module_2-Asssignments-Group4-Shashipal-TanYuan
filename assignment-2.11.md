@@ -6,7 +6,7 @@
 
 - Choose your own system, then succinctly explain how would you implement Cloud Architecture Design - Security on your system.
 
-###**Consolidated answers:** [HERE](https://docs.google.com/presentation/d/1UjM0qvfVSvqN-jfJlwXg37TxlW3JKgYa/edit#slide=id.g28523cd4e98_0_0)
+**Consolidated answers:** [HERE](https://docs.google.com/presentation/d/1UjM0qvfVSvqN-jfJlwXg37TxlW3JKgYa/edit#slide=id.g28523cd4e98_0_0)
 
 
 ### Submission 
